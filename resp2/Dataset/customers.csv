@@ -1,0 +1,81 @@
+customer_id,name,city,age,join_date,marketing_channel,loyalty_tier
+C001,Mira Ratnasari,Batam,54.0,2023-10-08,Organic Search,Bronze
+C002,Omar Kusuma,Depok,50.0,2024-01-04,Google Ads,Silver
+C003,Umar Hidayat,Solo,41.0,2023-06-17,TikTok Ads,Silver
+C004,Sandi Setiawan,Surabaya,32.0,2023-09-12,Instagram,Bronze
+C005,Kartika Putri,Jakarta,49.0,2023-11-08,Organic Search,Bronze
+C006,Xena Nugroho,Bogor,49.0,2023-10-15,Email Blast,Bronze
+C007,Niko Maharani,Surabaya,41.0,2023-07-13,Organic Search,Bronze
+C008,Citra Panduwinata,Batam,29.0,2023-11-23,Organic Search,Platinum
+C009,Budi Maharani,Depok,19.0,2023-07-09,TikTok Ads,Gold
+C010,Desi Saputra,Bali,20.0,2024-01-07,Email Blast,Bronze
+C011,Budi Bakri,Depok,54.0,2023-11-17,Organic Search,Platinum
+C012,Gilang Hakim,Medan,34.0,2023-06-26,Instagram,Silver
+C013,Vina Hermawan,Depok,19.0,2023-09-07,Instagram,Silver
+C014,Agus Safira,Medan,19.0,2023-07-20,Line Ads,Silver
+C015,Putri Sharif,Solo,45.0,2023-10-31,Email Blast,Bronze
+C016,Citra Kurniawan,Bali,40.0,2023-10-30,Email Blast,Bronze
+C017,Gita Bakri,Tangerang,54.0,2023-06-13,Line Ads,Silver
+C018,Indah Hidayat,Batam,49.0,2023-07-30,Organic Search,Silver
+C019,Rina Permata,Medan,50.0,2023-10-13,Email Blast,Bronze
+C020,Yudi Pratiwi,Jakarta,18.0,2023-07-27,Instagram,Gold
+C021,Indah Nabila,Depok,36.0,2023-07-06,Instagram,Silver
+C022,Budi Wulandari,Depok,19.0,2023-11-20,TikTok Ads,Bronze
+C023,Bella Sari,Jakarta,43.0,2023-06-20,Email Blast,Gold
+C024,Hendra Suharto,Bandung,49.0,2023-08-04,Organic Search,Platinum
+C025,Nanda Sandika,Solo,23.0,2023-06-08,Line Ads,Platinum
+C026,Julia Gunawan,Jogja,49.0,2024-01-24,Line Ads,Bronze
+C027,Dian Santoso,Tangerang,21.0,2023-10-22,Organic Search,Silver
+C028,Farah Permata,Bogor,28.0,2023-10-20,Google Ads,Silver
+C029,Candra Marlina,Malang,34.0,2023-12-21,Facebook Ads,Silver
+C030,Zahra Rahman,Medan,41.0,2023-09-23,TikTok Ads,Platinum
+C031,Joko Nugroho,Jakarta,22.0,2024-01-01,Line Ads,Silver
+C032,Nanda Handayani,Malang,51.0,2023-10-21,Email Blast,Gold
+C033,Omar Kusuma,Bali,23.0,2023-08-31,TikTok Ads,Gold
+C034,Nanda Setiawan,Medan,39.0,2023-09-06,Email Blast,Gold
+C035,Niko Bakri,Jogja,28.0,2023-08-05,Google Ads,Bronze
+C036,Putri Marlina,Malang,33.0,2023-07-02,Instagram,Bronze
+C037,Xena Nabila,Bali,50.0,2024-01-01,TikTok Ads,Bronze
+C038,Yudi Ratnasari,Surabaya,26.0,2023-12-08,Line Ads,Gold
+C039,Omar Pratama,Batam,23.0,2023-08-25,TikTok Ads,Bronze
+C040,Yudi Sari,Depok,33.0,2023-07-21,TikTok Ads,Silver
+C041,Indah Maharani,Surabaya,46.0,2023-10-31,TikTok Ads,Bronze
+C042,Andi Kusuma,Medan,20.0,2023-12-03,Facebook Ads,Silver
+C043,Xena Putri,Jogja,37.0,2023-08-02,TikTok Ads,Gold
+C044,Qori Kusuma,Tangerang,53.0,2023-12-07,Email Blast,Gold
+C045,Irfan Suharto,Malang,36.0,2023-10-03,Instagram,Bronze
+C046,Gilang Wijaya,Solo,43.0,2023-10-28,Google Ads,Gold
+C047,Mira Safira,Batam,20.0,2023-07-28,Organic Search,Silver
+C048,Gita Lestari,Medan,36.0,2023-07-28,TikTok Ads,Bronze
+C049,Hendra Hakim,Jakarta,37.0,2023-08-25,Line Ads,Silver
+C050,Hani Puspita,Solo,49.0,2023-07-19,TikTok Ads,Silver
+C051,Wawan Maharani,Solo,24.0,2023-11-27,Line Ads,Bronze
+C052,Kevin Suharto,Solo,50.0,2023-11-17,Email Blast,Silver
+C053,Niko Panduwinata,Semarang,35.0,2023-08-09,Line Ads,Bronze
+C054,Agus Suharto,Medan,18.0,2023-06-15,Organic Search,Bronze
+C055,Andi Suharto,Batam,28.0,2023-07-24,Instagram,Bronze
+C056,Kevin Pratiwi,Depok,45.0,2024-01-21,Line Ads,Bronze
+C057,Citra Pratama,Depok,42.0,2023-12-05,Line Ads,Bronze
+C058,Eka Nabila,Medan,40.0,2023-09-09,Instagram,Silver
+C059,Nanda Hidayat,Bali,48.0,2024-01-11,Organic Search,Silver
+C060,Agus Lestari,Semarang,47.0,2023-06-08,TikTok Ads,Silver
+C061,Omar Sharif,Jakarta,52.0,2023-07-23,Line Ads,Gold
+C062,Zahra Anggraini,Solo,24.0,2023-07-30,Instagram,Silver
+C063,Fitri Hidayat,Solo,33.0,2024-01-22,Email Blast,Silver
+C064,Fitri Permata,Medan,43.0,2023-09-16,Instagram,Bronze
+C065,Desi Kurniawan,Bali,19.0,2023-06-05,Email Blast,Bronze
+C066,Wawan Hidayat,Depok,18.0,2023-09-11,Organic Search,Silver
+C067,Omar Ratnasari,Depok,29.0,2023-12-13,TikTok Ads,Bronze
+C068,Julia Anggraini,Jogja,22.0,2023-06-06,Instagram,Silver
+C069,Fitri Sari,Medan,54.0,2023-09-17,Google Ads,Bronze
+C070,Vina Safira,Semarang,49.0,2024-01-10,Google Ads,Gold
+C071,Budi Amelia,Bandung,26.0,2023-09-24,Facebook Ads,Platinum
+C072,Bella Safira,Semarang,52.0,2023-09-02,Line Ads,Silver
+C073,Tari Prasetyo,Depok,36.0,2023-07-17,Organic Search,Bronze
+C074,Kartika Safira,Depok,33.0,2023-09-07,Instagram,Bronze
+C075,Yudi Hidayat,Surabaya,20.0,2023-07-25,Google Ads,Gold
+C076,Gilang Pratama,Depok,,2023-11-15,Line Ads,Gold
+C077,Agus Anggraini,Jakarta,,2023-07-22,Google Ads,Bronze
+C078,Citra Hidayat,Bogor,50.0,2023-10-22,Instagram,Silver
+C079,Farah Kusuma,Medan,,2023-06-13,Email Blast,Bronze
+C080,Agus Lestari,Malang,28.0,2023-09-22,Instagram,Bronze

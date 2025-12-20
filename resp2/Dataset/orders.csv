@@ -1,0 +1,201 @@
+order_id,date,customer_id,device,payment_method,category,product_name,units,unit_price,rating
+O1001,2024-01-16,C052,Mobile,Transfer,Beauty,Sheet Mask Set,1,217000,4.5
+O1002,2024-01-16,C015,Desktop,Qris,Accessories,Laptop Sleeve Air,1,156000,4.6
+O1003,2024-01-03,C061,Desktop,Qris,Sports,Resistance Band Set,1,175000,4.6
+O1004,2024-01-20,C021,Mobile,Credit Card,Sports,Water Bottle Insulated,1,326000,4.7
+O1005,2024-01-24,C024,Mobile,E-Wallet,Accessories,Keychain Multitool,1,259000,3.5
+O1006,2024-01-22,C003,Mobile,Qris,Accessories,Desk Mat Suede,1,257000,4.2
+O1007,2024-01-24,C022,Desktop,Qris,Electronics,USB Hub 7-Port,1,399000,4.2
+O1008,2024-01-01,C053,Desktop,COD,Accessories,Wireless Charger,1,135000,4.2
+O1009,2024-01-24,C002,Desktop,Transfer,Sports,Resistance Band Set,2,239000,4.5
+O1010,2024-01-20,C030,Mobile,E-Wallet,Accessories,Laptop Sleeve Air,1,218000,4.9
+O1011,2024-01-11,C038,Mobile,COD,Sports,Foam Roller,1,91000,3.8
+O1012,2024-01-17,C002,Mobile,Credit Card,Electronics,Mini Speaker Pro,1,413000,4.7
+O1013,2024-01-08,C064,Tablet,Qris,Electronics,LED Strip 5m,1,463000,5.0
+O1014,2024-01-04,C060,Desktop,Credit Card,Electronics,Compact Projector Lite,1,398000,4.2
+O1015,2024-01-06,C021,Mobile,COD,Beauty,Hair Oil Argan,1,155000,4.2
+O1016,2024-01-08,C033,Mobile,Credit Card,Home Living,Self-watering Pot,1,284000,3.5
+O1017,2024-01-20,C058,Tablet,Credit Card,Electronics,Smart Plug Duo,1,168000,4.9
+O1018,2024-01-30,C022,Mobile,COD,Electronics,LED Strip 5m,1,355000,4.1
+O1019,2024-01-03,C049,Mobile,E-Wallet,Electronics,Smart Plug Duo,1,545000,4.8
+O1020,2024-01-16,C059,Mobile,Transfer,Culinary,Matcha Powder Premium,2,158000,4.7
+O1021,2024-01-30,C042,Tablet,COD,Electronics,USB Hub 7-Port,1,370000,3.8
+O1022,2024-01-25,C060,Mobile,Credit Card,Culinary,Freeze Dried Fruit Mix,1,56000,4.5
+O1023,2024-01-03,C015,Mobile,Credit Card,Home Living,Cozy Knit Blanket,1,208000,
+O1024,2024-01-25,C062,Mobile,COD,Culinary,Freeze Dried Fruit Mix,3,120000,4.1
+O1025,2024-01-29,C062,Tablet,Qris,Fashion,Minimalist Sneakers,1,301000,4.7
+O1026,2024-01-18,C047,Desktop,Credit Card,Fashion,Beach Kimono,1,361000,4.7
+O1027,2024-01-14,C062,Tablet,Transfer,Culinary,Matcha Powder Premium,1,50000,4.9
+O1028,2024-01-18,C051,Desktop,E-Wallet,Electronics,Webcam HD Pro,1,566000,
+O1029,2024-01-02,C055,Tablet,Qris,Fashion,Canvas Tote Bag,1,268000,
+O1030,2024-01-22,C064,Mobile,Transfer,Fashion,Minimalist Sneakers,1,166000,3.5
+O1031,2024-01-03,C003,Mobile,Qris,Sports,Yoga Mat Pro,2,91000,4.5
+O1032,2024-01-16,C051,Mobile,Transfer,Electronics,Mini Speaker Pro,1,497000,4.5
+O1033,2024-01-29,C007,Mobile,Qris,Accessories,Tumbler Glow,3,267000,4.3
+O1034,2024-01-09,C021,Tablet,Credit Card,Electronics,Compact Projector Lite,1,369000,5.0
+O1035,2024-01-04,C039,Mobile,Qris,Sports,Water Bottle Insulated,2,89000,3.8
+O1036,2024-01-01,C018,Mobile,COD,Electronics,Bluetooth Earbuds,1,214000,3.5
+O1037,2024-01-04,C004,Mobile,Transfer,Electronics,Smart Plug Duo,1,432000,3.5
+O1038,2024-01-01,C060,Mobile,COD,Electronics,Webcam HD Pro,1,460000,3.5
+O1039,2024-01-14,C014,Mobile,Qris,Sports,Water Bottle Insulated,2,132000,4.7
+O1040,2024-01-21,C009,Mobile,COD,Accessories,Tumbler Glow,1,90000,4.1
+O1041,2024-01-16,C053,Mobile,Transfer,Fashion,Minimalist Sneakers,1,214000,4.7
+O1042,2024-01-20,C002,Mobile,Credit Card,Culinary,Cold Brew DIY Kit,1,61000,4.9
+O1043,2024-01-24,C060,Mobile,COD,Electronics,Webcam HD Pro,1,404000,4.2
+O1044,2024-01-08,C044,Mobile,COD,Accessories,Keychain Multitool,1,231000,4.3
+O1045,2024-01-07,C008,Desktop,Transfer,Fashion,Utility Vest,1,427000,3.5
+O1046,2024-01-03,C047,Mobile,Credit Card,Fashion,Utility Vest,2,200000,4.1
+O1047,2024-01-17,C035,Mobile,Qris,Home Living,Magnetic Spice Rack,1,395000,4.3
+O1048,2024-01-01,C036,Mobile,Transfer,Home Living,Plant Hanger Macrame,1,382000,4.6
+O1049,2024-01-16,C050,Mobile,Credit Card,Electronics,Webcam HD Pro,1,157000,4.1
+O1050,2024-01-12,C004,Mobile,Credit Card,Fashion,Beach Kimono,1,279000,4.7
+O1051,2024-01-27,C002,Mobile,Transfer,Electronics,Mini Speaker Pro,1,466000,4.3
+O1052,2024-01-19,C006,Mobile,Credit Card,Accessories,Cable Organizer,1,117000,4.8
+O1053,2024-01-22,C054,Mobile,Credit Card,Fashion,Canvas Tote Bag,1,175000,5.0
+O1054,2024-01-23,C004,Mobile,COD,Accessories,Wireless Charger,3,292000,4.5
+O1055,2024-01-22,C054,Mobile,COD,Electronics,Webcam HD Pro,1,535000,4.8
+O1056,2024-01-14,C063,Desktop,Transfer,Culinary,Artisan Coffee Beans,1,156000,5.0
+O1057,2024-01-30,C018,Mobile,Credit Card,Electronics,Webcam HD Pro,1,268000,4.7
+O1058,2024-01-06,C044,Mobile,Transfer,Accessories,Keychain Multitool,1,64000,4.1
+O1059,2024-01-06,C034,Mobile,COD,Home Living,Bonsai Lamp,1,290000,4.3
+O1060,2024-01-13,C062,Desktop,COD,Electronics,Smart Plug Duo,1,191000,4.3
+O1061,2024-01-19,C014,Mobile,Qris,Accessories,Wireless Charger,2,268000,4.2
+O1062,2024-01-22,C048,Mobile,Transfer,Accessories,Phone Stand Flex,1,134000,4.6
+O1063,2024-01-08,C015,Mobile,E-Wallet,Electronics,LED Strip 5m,1,557000,3.8
+O1064,2024-01-27,C062,Desktop,COD,Accessories,Keychain Multitool,1,133000,4.0
+O1065,2024-01-27,C040,Tablet,COD,Fashion,Sporty Jogger,1,292000,4.3
+O1066,2024-01-02,C053,Mobile,Qris,Accessories,Phone Stand Flex,1,152000,3.5
+O1067,2024-01-21,C024,Mobile,Qris,Fashion,Utility Vest,1,475000,4.0
+O1068,2024-01-30,C026,Desktop,Qris,Accessories,Portable Fan Mini,3,177000,5.0
+O1069,2024-01-01,C060,Desktop,COD,Accessories,Tumbler Glow,1,77000,3.5
+O1070,2024-01-28,C041,Mobile,Qris,Electronics,Compact Projector Lite,3,525000,3.8
+O1071,2024-01-15,C029,Desktop,Credit Card,Home Living,Wall Art Print,1,239000,4.5
+O1072,2024-01-01,C015,Tablet,Qris,Culinary,Instant Kombucha Pack,1,54000,4.7
+O1073,2024-01-05,C045,Mobile,Transfer,Fashion,Sporty Jogger,1,415000,4.5
+O1074,2024-01-28,C065,Mobile,Transfer,Electronics,USB Hub 7-Port,1,212000,4.6
+O1075,2024-01-29,C009,Mobile,E-Wallet,Fashion,Beach Kimono,1,223000,4.4
+O1076,2024-01-16,C001,Mobile,COD,Fashion,Denim Jacket Vintage,1,161000,5.0
+O1077,2024-01-19,C008,Mobile,COD,Fashion,Beach Kimono,1,157000,5.0
+O1078,2024-01-04,C063,Mobile,Credit Card,Accessories,Keychain Multitool,1,49000,4.7
+O1079,2024-01-03,C011,Mobile,Transfer,Accessories,Phone Stand Flex,1,255000,5.0
+O1080,2024-01-17,C008,Desktop,Transfer,Electronics,Compact Projector Lite,1,279000,4.0
+O1081,2024-01-17,C035,Mobile,Qris,Electronics,Compact Projector Lite,1,297000,4.7
+O1082,2024-01-12,C035,Mobile,Transfer,Electronics,Mini Speaker Pro,1,451000,4.7
+O1083,2024-01-28,C033,Mobile,E-Wallet,Fashion,Canvas Tote Bag,1,223000,4.9
+O1084,2024-01-30,C005,Mobile,COD,Culinary,Spice Rub Trio,1,121000,3.5
+O1085,2024-01-29,C041,Mobile,Qris,Electronics,Compact Projector Lite,1,445000,4.8
+O1086,2024-01-14,C028,Desktop,Transfer,Beauty,Hair Oil Argan,1,241000,3.5
+O1087,2024-01-21,C007,Desktop,COD,Fashion,Beach Kimono,1,428000,4.1
+O1088,2024-01-06,C012,Mobile,Qris,Accessories,Phone Stand Flex,1,64000,4.3
+O1089,2024-01-03,C034,Tablet,Qris,Home Living,Aroma Diffuser,1,307000,4.9
+O1090,2024-01-28,C033,Mobile,Transfer,Fashion,Minimalist Sneakers,1,317000,3.5
+O1091,2024-01-09,C048,Tablet,Transfer,Home Living,Magnetic Spice Rack,1,293000,4.4
+O1092,2024-01-05,C023,Mobile,Qris,Fashion,Statement Cap,4,182000,3.5
+O1093,2024-01-24,C062,Mobile,Transfer,Electronics,Smart Plug Duo,1,528000,5.0
+O1094,2024-01-29,C037,Mobile,Transfer,Culinary,Instant Kombucha Pack,1,67000,4.0
+O1095,2024-01-17,C044,Mobile,Credit Card,Electronics,Mini Speaker Pro,1,371000,4.1
+O1096,2024-01-14,C035,Tablet,Credit Card,Sports,Resistance Band Set,1,241000,4.4
+O1097,2024-01-21,C065,Mobile,COD,Culinary,Honey Raw Organic,1,114000,4.0
+O1098,2024-01-03,C047,Desktop,Transfer,Accessories,Keychain Multitool,1,288000,
+O1099,2024-01-28,C003,Desktop,E-Wallet,Home Living,Self-watering Pot,3,275000,4.5
+O1100,2024-01-01,C001,Mobile,Qris,Sports,Gym Towel Microfiber,1,302000,3.8
+O1101,2024-01-20,C005,Mobile,COD,Accessories,Wireless Charger,1,151000,4.1
+O1102,2024-01-29,C014,Mobile,Qris,Sports,Water Bottle Insulated,1,90000,3.8
+O1103,2024-01-21,C027,Mobile,E-Wallet,Culinary,Spice Rub Trio,1,186000,4.9
+O1104,2024-01-23,C009,Desktop,Credit Card,Home Living,Aroma Diffuser,1,381000,4.8
+O1105,2024-01-01,C015,Desktop,Transfer,Electronics,Smart Plug Duo,1,358000,4.5
+O1106,2024-01-03,C042,Mobile,Qris,Accessories,Keychain Multitool,1,274000,4.7
+O1107,2024-01-18,C051,Desktop,Transfer,Electronics,Smart Plug Duo,2,475000,4.2
+O1108,2024-01-25,C063,Mobile,Qris,Accessories,Laptop Sleeve Air,1,192000,4.9
+O1109,2024-01-10,C052,Mobile,COD,Accessories,Tumbler Glow,1,173000,3.8
+O1110,2024-01-22,C004,Mobile,COD,Accessories,Laptop Sleeve Air,1,229000,3.8
+O1111,2024-01-26,C023,Mobile,E-Wallet,Accessories,Phone Stand Flex,1,68000,4.5
+O1112,2024-01-03,C015,Tablet,COD,Home Living,Plant Hanger Macrame,1,233000,4.5
+O1113,2024-01-08,C043,Desktop,Credit Card,Accessories,Phone Stand Flex,1,278000,4.0
+O1114,2024-01-14,C029,Mobile,Transfer,Sports,Jump Rope Speed,1,280000,
+O1115,2024-01-24,C036,Mobile,Credit Card,Electronics,Compact Projector Lite,1,576000,4.6
+O1116,2024-01-18,C013,Mobile,Credit Card,Culinary,Gourmet Granola Jar,1,151000,4.0
+O1117,2024-01-15,C032,Mobile,Transfer,Beauty,Face Serum Vitamin C,1,133000,3.5
+O1118,2024-01-22,C059,Desktop,Credit Card,Culinary,Honey Raw Organic,1,198000,4.2
+O1119,2024-01-23,C028,Tablet,Qris,Accessories,Tumbler Glow,1,182000,4.6
+O1120,2024-01-02,C042,Mobile,Qris,Home Living,Scented Candle Set,1,324000,4.2
+O1121,2024-01-27,C045,Tablet,E-Wallet,Accessories,Portable Fan Mini,1,176000,4.5
+O1122,2024-01-10,C062,Mobile,COD,Fashion,Statement Cap,1,491000,3.8
+O1123,2024-01-02,C057,Desktop,Transfer,Home Living,Plant Hanger Macrame,1,287000,3.8
+O1124,2024-01-26,C006,Mobile,Credit Card,Electronics,USB Hub 7-Port,1,513000,4.5
+O1125,2024-01-17,C028,Desktop,Transfer,Electronics,Mini Speaker Pro,1,310000,4.7
+O1126,2024-01-08,C028,Mobile,E-Wallet,Fashion,Sporty Jogger,1,370000,
+O1127,2024-01-01,C044,Mobile,Transfer,Accessories,Keychain Multitool,1,68000,
+O1128,2024-01-09,C030,Mobile,Transfer,Fashion,Minimalist Sneakers,1,358000,4.6
+O1129,2024-01-11,C062,Mobile,Qris,Home Living,Aroma Diffuser,1,182000,4.5
+O1130,2024-01-22,C062,Mobile,Transfer,Accessories,Tumbler Glow,2,232000,4.6
+O1131,2024-01-16,C001,Mobile,Credit Card,Accessories,Wireless Charger,1,100000,4.9
+O1132,2024-01-07,C027,Desktop,Qris,Sports,Jump Rope Speed,1,141000,4.6
+O1133,2024-01-29,C062,Mobile,Qris,Electronics,Compact Projector Lite,1,212000,4.0
+O1134,2024-01-10,C003,Mobile,Qris,Accessories,Cable Organizer,2,280000,4.5
+O1135,2024-01-23,C027,Mobile,Qris,Beauty,Face Serum Vitamin C,2,68000,4.7
+O1136,2024-01-26,C009,Desktop,Qris,Fashion,Sporty Jogger,4,181000,4.0
+O1137,2024-01-03,C062,Mobile,Credit Card,Accessories,Portable Fan Mini,1,128000,4.2
+O1138,2024-01-18,C037,Desktop,Qris,Electronics,LED Strip 5m,1,178000,
+O1139,2024-01-25,C051,Mobile,Transfer,Electronics,Smart Lamp Mini,1,410000,3.8
+O1140,2024-01-24,C044,Tablet,Qris,Electronics,Compact Projector Lite,1,325000,4.3
+O1141,2024-01-13,C024,Mobile,Transfer,Culinary,Spice Rub Trio,1,130000,5.0
+O1142,2024-01-28,C059,Desktop,COD,Culinary,Honey Raw Organic,1,89000,4.8
+O1143,2024-01-26,C032,Desktop,COD,Fashion,Denim Jacket Vintage,1,287000,4.8
+O1144,2024-01-07,C052,Mobile,Credit Card,Culinary,Freeze Dried Fruit Mix,1,149000,4.3
+O1145,2024-01-25,C062,Desktop,Qris,Beauty,Face Serum Vitamin C,1,90000,4.7
+O1146,2024-01-04,C058,Mobile,Qris,Sports,Resistance Band Set,1,337000,
+O1147,2024-01-13,C052,Mobile,COD,Accessories,Wireless Charger,1,152000,4.5
+O1148,2024-01-20,C012,Mobile,E-Wallet,Fashion,Utility Vest,1,445000,4.4
+O1149,2024-01-01,C039,Desktop,Qris,Electronics,LED Strip 5m,2,484000,5.0
+O1150,2024-01-08,C002,Mobile,Transfer,Home Living,Magnetic Spice Rack,1,398000,4.9
+O1151,2024-01-14,C003,Tablet,COD,Electronics,Mini Speaker Pro,1,269000,3.8
+O1152,2024-01-16,C056,Mobile,Qris,Electronics,Smart Plug Duo,1,376000,4.9
+O1153,2024-01-14,C059,Mobile,Qris,Electronics,USB Hub 7-Port,1,565000,4.7
+O1154,2024-01-12,C002,Mobile,Credit Card,Fashion,Minimalist Sneakers,1,218000,4.4
+O1155,2024-01-19,C002,Desktop,Qris,Electronics,Webcam HD Pro,1,279000,4.1
+O1156,2024-01-23,C054,Mobile,Transfer,Sports,Foam Roller,1,171000,4.2
+O1157,2024-01-15,C001,Mobile,Qris,Electronics,Smart Plug Duo,1,406000,4.3
+O1158,2024-01-28,C019,Mobile,E-Wallet,Accessories,Tumbler Glow,1,51000,4.9
+O1159,2024-01-02,C002,Desktop,Credit Card,Accessories,Tumbler Glow,1,132000,4.8
+O1160,2024-01-02,C053,Mobile,Credit Card,Fashion,Denim Jacket Vintage,2,300000,4.7
+O1161,2024-01-23,C044,Mobile,Qris,Fashion,Statement Cap,1,392000,4.1
+O1162,2024-01-22,C032,Mobile,Transfer,Fashion,Canvas Tote Bag,1,333000,4.2
+O1163,2024-01-19,C032,Mobile,COD,Beauty,Face Serum Vitamin C,1,131000,3.8
+O1164,2024-01-25,C055,Tablet,COD,Electronics,Compact Projector Lite,1,366000,4.3
+O1165,2024-01-26,C056,Mobile,COD,Home Living,Aroma Diffuser,1,324000,4.3
+O1166,2024-01-30,C017,Mobile,Credit Card,Fashion,Denim Jacket Vintage,1,361000,3.8
+O1167,2024-01-29,C038,Mobile,Transfer,Accessories,Laptop Sleeve Air,1,155000,
+O1168,2024-01-22,C024,Desktop,E-Wallet,Home Living,Bonsai Lamp,1,322000,4.4
+O1169,2024-01-26,C011,Mobile,Qris,Accessories,Wireless Charger,2,48000,4.4
+O1170,2024-01-26,C016,Mobile,COD,Sports,Resistance Band Set,1,163000,4.8
+O1171,2024-01-22,C059,Mobile,Qris,Fashion,Statement Cap,1,433000,4.0
+O1172,2024-01-17,C003,Mobile,COD,Electronics,Mini Speaker Pro,1,161000,5.0
+O1173,2024-01-20,C020,Desktop,COD,Electronics,Bluetooth Earbuds,1,505000,5.0
+O1174,2024-01-10,C059,Tablet,COD,Fashion,Sporty Jogger,1,330000,4.5
+O1175,2024-01-06,C036,Desktop,Qris,Accessories,Wireless Charger,1,132000,3.5
+O1176,2024-01-15,C019,Mobile,Transfer,Beauty,Sheet Mask Set,1,248000,4.2
+O1177,2024-01-22,C019,Mobile,COD,Beauty,Sheet Mask Set,1,236000,4.6
+O1178,2024-01-11,C020,Desktop,E-Wallet,Fashion,Sporty Jogger,2,454000,4.3
+O1179,2024-01-28,C052,Mobile,COD,Electronics,Compact Projector Lite,1,417000,3.8
+O1180,2024-01-05,C033,Mobile,Transfer,Accessories,Desk Mat Suede,2,139000,4.4
+O1181,2024-01-01,C040,Mobile,Credit Card,Fashion,Beach Kimono,1,444000,4.6
+O1182,2024-01-08,C039,Mobile,COD,Electronics,Webcam HD Pro,1,380000,3.8
+O1183,2024-01-21,C001,Mobile,Credit Card,Electronics,LED Strip 5m,1,215000,4.2
+O1184,2024-01-28,C011,Mobile,COD,Accessories,Laptop Sleeve Air,1,49000,4.7
+O1185,2024-01-12,C057,Mobile,Qris,Accessories,Laptop Sleeve Air,2,210000,4.6
+O1186,2024-01-12,C050,Desktop,COD,Accessories,Laptop Sleeve Air,1,214000,4.2
+O1187,2024-01-05,C023,Mobile,Qris,Electronics,USB Hub 7-Port,1,356000,4.8
+O1188,2024-01-07,C031,Mobile,Transfer,Accessories,Portable Fan Mini,1,59000,3.5
+O1189,2024-01-04,C042,Mobile,E-Wallet,Sports,Water Bottle Insulated,1,240000,4.9
+O1190,2024-01-06,C007,Tablet,Transfer,Beauty,Lip Tint Natural,2,185000,3.8
+O1191,2024-01-13,C016,Mobile,Qris,Electronics,Smart Plug Duo,1,327000,4.3
+O1192,2024-01-20,C060,Mobile,Qris,Electronics,Webcam HD Pro,1,583000,4.4
+O1193,2024-01-30,C002,Mobile,COD,Home Living,Cozy Knit Blanket,1,275000,4.3
+O1194,2024-01-15,C001,Desktop,Credit Card,Beauty,Lip Tint Natural,1,217000,3.5
+O1195,2024-01-03,C048,Desktop,Qris,Home Living,Self-watering Pot,1,251000,4.1
+O1196,2024-01-23,C012,Mobile,Qris,Home Living,Cozy Knit Blanket,1,227000,4.7
+O1197,2024-01-08,C037,Desktop,Credit Card,Fashion,Canvas Tote Bag,1,192000,4.6
+O1198,2024-01-20,C032,Mobile,COD,Fashion,Retro Hoodie,1,443000,4.3
+O1199,2024-01-16,C009,Desktop,Transfer,Culinary,Cold Brew DIY Kit,1,190000,4.0
+O1200,2024-01-13,C019,Mobile,Transfer,Electronics,USB Hub 7-Port,1,238000,3.5
